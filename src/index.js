@@ -1,3 +1,11 @@
+/* Group
+Daijha Rabalsis
+Luis Grande
+Mohamed Ait oufquir
+David Han
+Halil Costa
+*/ 
+
 // Importing database functions. DO NOT MODIFY THIS LINE.
 import { central, db1, db2, db3, vault } from "./databases.js";
 
